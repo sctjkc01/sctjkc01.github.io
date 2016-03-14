@@ -1,2 +1,1 @@
-# sctjkc01.github.io
-GitHub Pages repo
+# The Stick's GitHub Pages repo
