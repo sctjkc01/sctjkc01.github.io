@@ -1,17 +1,22 @@
 <!doctype html>
 <html lang="en-us">
-  <head>
+
+<head>
     <meta charset="utf-8">
+    <link rel="shortcut icon" href="../res/icon16.ico" sizes="16x16" />
+    <link rel="shortcut icon" href="../res/icon32.ico" sizes="32x32" />
+    <link rel="shortcut icon" href="../res/icon64.ico" sizes="64x64" />
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Unity WebGL Player | Portfolio</title>
+    <title>Chris Cheng's Portfolio</title>
     <style>
-    /* a style sheet needs to be present for cursor hiding and custom cursors to work. */
+        /* a style sheet needs to be present for cursor hiding and custom cursors to work. */
     </style>
-  </head>
-  <body>
+</head>
+
+<body>
     <canvas class="emscripten" id="canvas" oncontextmenu="event.preventDefault()" height="600px" width="960px"></canvas>
     <script type='text/javascript'>
-  var Module = {
+        var Module = {
     TOTAL_MEMORY: 536870912,
     errorhandler: null,			// arguments: err, url, line. This function must return 'true' if the error is handled, otherwise 'false'
     compatibilitycheck: null,
@@ -19,8 +24,10 @@
     codeUrl: "Release/Export.js",
     memUrl: "Release/Export.mem",
   };
-</script>
-<script src="Release/UnityLoader.js"></script>
 
-  </body>
+    </script>
+    <script src="Release/UnityLoader.js"></script>
+
+</body>
+
 </html>
