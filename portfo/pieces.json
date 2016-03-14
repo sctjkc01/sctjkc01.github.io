@@ -4,7 +4,7 @@
       "name": "Towers",
 	  "buttonLabel": "Play",
       "playUrl": "play/Towers/",
-      "vidUrl": "res/sample.ogg"
+      "vidUrl": "../res/portfo/sample.ogg"
     }
   ]
 }
