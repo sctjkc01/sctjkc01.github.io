@@ -7,6 +7,10 @@
     <link rel="shortcut icon" href="../res/icon64.ico" sizes="64x64" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
     <style>
+        body {
+            background: #BCF;
+        }
+        
         h1 {
             text-align: center;
         }
@@ -54,15 +58,16 @@
         div.element {
             display: inline-block;
             margin: 0px 8px;
-            border: 1px blue dashed;
+            border: 1px dashed blue;
             padding: 4px;
         }
         
         div.sect {
             background: #DEF;
-            border: 1px solid white;
-            margin-top: 8px;
+            border: 1px solid blue;
+            margin: 8px auto;
             padding: 12px;
+            max-width: 640px;
         }
         
         div.sect.alt {
@@ -97,7 +102,18 @@
             </div>
         </div>
     </div>
-    <div id="awa" class="sect">
+    <div id="exp" class="sect">
+        <div class="header">Prior Experience</div>
+        <div class="indent divideAfter">
+            <div class="subheader">Gitsumm, Inc.  (online internship) - Jun-Sep 2014</div>
+            <div>Assisted with coding multiple browser-based games in Phaser/Javascript and one game in Unity3D/C#.  Phaser projects were small and varied, and typically saw completion; Unity3D project was large and inspired by Zelda.</div>
+        </div>
+        <div class="indent">
+            <div class="subheader">Star Headlight and Lantern Co., Inc. - Jan-Aug 2015</div>
+            <div>Developed a variety of in-house utilities for the company, including a Microsoft Access Database for test fixture maintainence, implementing a capture mechanism for data from a test fixture involving a Raspberry Pi, and two large configuration utilities for two classes of product developed solely using Unity3D.</div>
+        </div>
+    </div>
+    <div id="awa" class="sect alt">
         <div class="header">Awards</div>
         <ul>
             <li>Dean's List: Fall 2012-13 through Spring 2013-14, plus Fall 2015-16.</li>
@@ -105,7 +121,7 @@
                 retreat.</li>
         </ul>
     </div>
-    <div id="skl" class="sect alt">
+    <div id="skl" class="sect">
         <div class="header">Skills</div>
         <div>
             Software:
@@ -131,17 +147,6 @@
                 <div class="element"><a href="http://wiki.vg/NBT" target="_blank">Named Binary Tags</a></div>
                 <div class="element">HTML5 (familiar)</div>
             </div>
-        </div>
-    </div>
-    <div id="exp" class="sect">
-        <div class="header">Prior Experience</div>
-        <div class="indent divideAfter">
-            <div class="subheader">Gitsumm, Inc.  (online internship) - Jun-Sep 2014</div>
-            <div>Assisted with coding multiple browser-based games in Phaser/Javascript and one game in Unity3D/C#.  Phaser projects were small and varied, and typically saw completion; Unity3D project was large and inspired by Zelda.</div>
-        </div>
-        <div class="indent">
-            <div class="subheader">Star Headlight and Lantern Co., Inc. - Jan-Aug 2015</div>
-            <div>Developed a variety of in-house utilities for the company, including a Microsoft Access Database for test fixture maintainence, implementing a capture mechanism for data from a test fixture involving a Raspberry Pi, and two large configuration utilities for two classes of product developed solely using Unity3D.</div>
         </div>
     </div>
 </body>
