@@ -2,6 +2,7 @@
   "portfolioPieces": [
     {
       "name": "Bot Buster",
+      "desc": "An HTML5 game utilizing nothing but Canvas and SoundJS",
 	  "buttonLabel": "Play",
       "playUrl": "pieces/botbuster/",
       "vidUrl": "../res/portfo/botbuster.mp4"
