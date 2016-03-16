@@ -14,7 +14,7 @@
       "vidUrl": "../res/portfo/tubular.mp4"
     },{
       "name": "Golems",
-      "desc": "A Python-powered learning game target towards the OLPC XOs for elementary-grade students.  Featured fully-autonomous combat, controlled by player code.",
+      "desc": "A PyGame-powered learning game targeted towards the OLPC XOs for elementary-grade students.  Featured fully-autonomous combat, controlled by player code.",
       "buttonLabel": "Examine",
       "playUrl": "http://github.com/ColdSauce/golems",
       "vidUrl": "../res/portfo/golems.mp4"
