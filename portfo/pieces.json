@@ -1,10 +1,10 @@
 {
   "portfolioPieces": [
     {
-      "name": "Towers",
+      "name": "Bot Buster",
 	  "buttonLabel": "Play",
-      "playUrl": "play/Towers/",
-      "vidUrl": "../res/portfo/plhldr.ogg"
+      "playUrl": "pieces/botbuster/",
+      "vidUrl": "../res/portfo/botbuster.mp4"
     }
   ]
 }

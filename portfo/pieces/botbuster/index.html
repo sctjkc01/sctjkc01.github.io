@@ -1,0 +1,44 @@
+<html>
+    <head>
+        <title>
+            Bot Buster
+        </title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <style>
+            @font-face {
+                font-family: acknowtt;
+                src: url(../../../res/acknowtt.ttf);
+            }
+            
+            canvas {
+                width: 100%;
+                height: 100%;
+                position: absolute;
+                left: 0px;
+                top: 0px;
+            }
+            
+            #main {
+                image-rendering: pixelated;
+            }
+            
+            .background {
+                z-index: -1;
+            }
+            
+            body {
+                background: black;
+                color: white;
+            }
+        </style>
+        <script src="https://code.createjs.com/soundjs-0.6.1.min.js"></script>
+        <script src="gamejs/keys.js"></script>
+        <script src="gamejs/util.js"></script>
+        <script src="gamejs/load.js"></script>
+        <script src="gamejs/main.js"></script>
+    </head>
+    <body>
+        <canvas id="bg" class="background"> </canvas>
+        <canvas id="main"> </canvas>
+    </body>
+</html>
