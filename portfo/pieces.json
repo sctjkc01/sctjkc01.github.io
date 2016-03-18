@@ -1,11 +1,41 @@
 {
   "portfolioPieces": [
     {
+      "name": "",
+      "desc": "Blank 0",
+      "buttonLabel": "N A",
+      "playUrl": "",
+      "vidUrl": ""
+    },{
+      "name": "",
+      "desc": "Blank 1",
+      "buttonLabel": "N A",
+      "playUrl": "",
+      "vidUrl": ""
+    },{
+      "name": "",
+      "desc": "Blank 2",
+      "buttonLabel": "N A",
+      "playUrl": "",
+      "vidUrl": ""
+    },{
       "name": "Bot Buster",
       "desc": "An HTML5 game utilizing nothing but Canvas and SoundJS.",
 	  "buttonLabel": "Play",
       "playUrl": "pieces/botbuster/",
       "vidUrl": "../res/portfo/botbuster.mp4"
+    },{
+      "name": "",
+      "desc": "Blank 4",
+      "buttonLabel": "N A",
+      "playUrl": "",
+      "vidUrl": ""
+    },{
+      "name": "",
+      "desc": "Blank 5",
+      "buttonLabel": "N A",
+      "playUrl": "",
+      "vidUrl": ""
     },{
       "name": "Totally Tubular",
       "desc": "Unity3D endless runner, involving procedurally generated tubes and network play.  Download for Windows only.",
@@ -13,11 +43,53 @@
       "playUrl": "pieces/Tubular.zip",
       "vidUrl": "../res/portfo/tubular.mp4"
     },{
+      "name": "Resume",
+      "desc": "",
+      "buttonLabel": "View",
+      "playUrl": "../resume",
+      "vidUrl": ""
+    },{
+      "name": "",
+      "desc": "Blank 7",
+      "buttonLabel": "N A",
+      "playUrl": "",
+      "vidUrl": ""
+    },{
+      "name": "",
+      "desc": "Blank 8",
+      "buttonLabel": "N A",
+      "playUrl": "",
+      "vidUrl": ""
+    },{
+      "name": "",
+      "desc": "Blank 9",
+      "buttonLabel": "N A",
+      "playUrl": "",
+      "vidUrl": ""
+    },{
+      "name": "",
+      "desc": "Blank 10",
+      "buttonLabel": "N A",
+      "playUrl": "",
+      "vidUrl": ""
+    },{
       "name": "Golems",
       "desc": "A PyGame-powered learning game targeted towards the OLPC XOs for elementary-grade students.  Featured fully-autonomous combat, controlled by player code.",
       "buttonLabel": "Examine",
       "playUrl": "http://github.com/ColdSauce/golems",
       "vidUrl": "../res/portfo/golems.mp4"
-    }
+    },{
+      "name": "",
+      "desc": "Blank 12",
+      "buttonLabel": "N A",
+      "playUrl": "",
+      "vidUrl": ""
+    },{
+      "name": "",
+      "desc": "Blank 13",
+      "buttonLabel": "N A",
+      "playUrl": "",
+      "vidUrl": ""
+    },
   ]
 }
