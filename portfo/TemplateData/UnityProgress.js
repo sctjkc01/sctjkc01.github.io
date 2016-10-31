@@ -6,7 +6,7 @@ function UnityProgress (dom) {
 	var parent = dom.parentNode;
 
 	var background = document.createElement("div");
-	background.style.background = "#222C37";
+	background.style.background = "#6785A7";
 	background.style.position = "absolute";
 	parent.appendChild(background);
 	this.background = background;
