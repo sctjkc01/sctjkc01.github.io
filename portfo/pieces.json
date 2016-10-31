@@ -6,7 +6,13 @@
 	  "buttonLabel": "Play",
       "playUrl": "pieces/botbuster/",
       "vidUrl": "../res/portfo/botbuster.mp4"
-    },{ },{ },{
+    },{
+      "name": "Terrene Spire Hearth",
+      "desc": "A one-page wonder HTML5 information repository.  Joint project between myself and Dexexe1234.  Intended for use alongside Dex's forum adventure.",
+      "buttonLabel": "Peruse",
+      "playUrl": "http://dexworks.net/Daeva/Hearth/",
+      "vidUrl": "../res/portfo/hearth.mp4"
+    },{ },{
       "name": "Totally Tubular",
       "desc": "Unity3D endless runner, involving procedurally generated tubes and network play.  Download for Windows only.",
       "buttonLabel": "Download",
