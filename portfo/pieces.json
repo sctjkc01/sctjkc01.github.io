@@ -12,12 +12,7 @@
       "buttonLabel": "Download",
       "playUrl": "pieces/Tubular.zip",
       "vidUrl": "../res/portfo/tubular.mp4"
-    },{
-      "name": "Resume",
-      "desc": "View Chris Cheng's Resume",
-      "buttonLabel": "View",
-      "playUrl": "http://sctjkc01.github.io/resume"
-    },{ },{ },{
+    },{ },{ },{ },{
       "name": "Golems",
       "desc": "A PyGame-powered learning game targeted towards the One Laptop Per Child XO laptops for elementary-grade students.  Featured fully-autonomous combat, controlled by player code.",
       "buttonLabel": "Examine",
