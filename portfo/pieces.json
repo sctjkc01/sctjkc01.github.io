@@ -1,29 +1,29 @@
 {
   "portfolioPieces": [
-    { },{ },{ },{
+    { },{
       "name": "Bot Buster",
-      "desc": "An HTML5 game utilizing nothing but Canvas and SoundJS.",
-	  "buttonLabel": "Play",
+      "desc": "Last Update: Oct 2016.\nAn HTML5 game utilizing nothing but Canvas and SoundJS.",
+      "buttonLabel": "Play",
       "playUrl": "pieces/botbuster/",
       "vidUrl": "../res/portfo/botbuster.mp4"
     },{
       "name": "Terrene Spire Hearth",
-      "desc": "A one-page wonder HTML5 information repository.  Joint project between myself and Dexexe1234.  Intended for use alongside Dex's forum adventure.",
+      "desc": "Last Update: Feb 2017.\nA one-page wonder HTML5 information repository.  Joint project between myself and Dexexe1234.  Intended for use alongside Dex's forum adventure.",
       "buttonLabel": "Peruse",
       "playUrl": "http://dexworks.net/Daeva/Hearth/",
       "vidUrl": "../res/portfo/hearth.mp4"
-    },{ },{
+    },{ },{ },{ },{ },{ },{ },{ },{ },{ },{
       "name": "Totally Tubular",
-      "desc": "Unity3D endless runner, involving procedurally generated tubes and network play.  Download for Windows only.",
+      "desc": "Last Update: Dec 2015.\nUnity3D endless runner, involving procedurally generated tubes and network play.  Download for Windows only.",
       "buttonLabel": "Download",
       "playUrl": "pieces/Tubular.zip",
       "vidUrl": "../res/portfo/tubular.mp4"
-    },{ },{ },{ },{
+    },{
       "name": "Golems",
-      "desc": "A PyGame-powered learning game targeted towards the One Laptop Per Child XO laptops for elementary-grade students.  Featured fully-autonomous combat, controlled by player code.",
+      "desc": "Last Update: Dec 2015.\nA PyGame-powered learning game targeted towards the One Laptop Per Child XO laptops for elementary-grade students.  Featured fully-autonomous combat, controlled by player code.",
       "buttonLabel": "Examine",
       "playUrl": "http://github.com/ColdSauce/golems",
       "vidUrl": "../res/portfo/golems.mp4"
-    },{ },{ },{ }
+    }
   ]
 }
